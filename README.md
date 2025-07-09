@@ -1,6 +1,8 @@
 # AI 项目管理系统
 
 一个支持**AI智能网页生成**的项目管理系统，集成Claude Code AI能力，支持版本控制、实时进度追踪和高质量模板后备方案。
+![20250709104741](https://github.com/user-attachments/assets/668598bc-a262-41f3-960b-7d8202e277bc)
+![20250709104742](https://github.com/user-attachments/assets/d591d23c-b128-438d-b4f6-6e1ca61da82c)
 
 ## ✨ 核心功能
 
